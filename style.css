@@ -41,6 +41,7 @@ ul li{
     font-size: x-large;
     font-family:'Georgia', serif;
     font-weight: lighter;
+    text-shadow:2px 2px 8px black;
 }
 .quote{
     margin: 3%;
